@@ -1,3 +1,2 @@
-A = 2
-b = 3
-print(A + b)
+def add(a, b):
+    return a + b
